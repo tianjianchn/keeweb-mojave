@@ -10,6 +10,7 @@
     --text-color: #ffffff;
     --text-contrast-action-color: #ffffff;
     color: white;
+    --muted-color: #868686; /* form field label color */
 }
 
 .th-mojave .app__menu {
